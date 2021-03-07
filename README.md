@@ -7,4 +7,4 @@
 * step 6: building up the functions and testing
 * GitHub url=https://github.com/kenchenpcpm/DayPlanner_KC_Release
 * GitPage url=https://kenchenpcpm.github.io/DayPlanner_KC_Release/
-<img src="./asset/Work Day Scheduler.png" width="700>
+* <img src="./asset/Work Day Scheduler.png" width="700>
